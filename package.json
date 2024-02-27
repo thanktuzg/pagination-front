@@ -2,11 +2,6 @@
   "name": "pagination-front",
   "version": "0.0.1",
   "description": "pagination-front is a paging library",
-  "main": "./dist/index.js",
-  "scripts": {
-    "test": "NODE_ENV=test jest --detectOpenHandles",
-    "build": "babel src --extensions \".js,.ts\" --out-dir dist --copy-files --no-copy-ignored"
-  },
   "author": "thanktuzg",
   "license": "UNLICENSED",
   "repository": {
